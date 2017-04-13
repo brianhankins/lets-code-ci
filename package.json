@@ -1,0 +1,30 @@
+{
+  "name": "lets-code-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianhankins/lets-code-ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianhankins/lets-code-ci/issues"
+  },
+  "homepage": "https://github.com/brianhankins/lets-code-ci#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.15.2",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "istanbul": "^1.1.0-alpha.1",
+    "mocha": "^3.2.0",
+    "supertest": "^3.0.0"
+  }
+}
